@@ -1,4 +1,4 @@
-# Casa Automatizada
+
 # Smart Home – Programação Socket (Python / TCP)
 
 Sistema cliente/servidor para controlar dispositivos de uma casa inteligente.
